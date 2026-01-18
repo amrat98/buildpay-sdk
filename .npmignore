@@ -1,0 +1,39 @@
+# Development files
+examples/
+*.md
+!README.md
+
+# Test files
+test/
+tests/
+*.test.js
+*.spec.js
+
+# Configuration
+.eslintrc*
+.prettierrc*
+.editorconfig
+.gitignore
+
+# CI/CD
+.github/
+.gitlab-ci.yml
+.travis.yml
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Dependencies
+node_modules/
