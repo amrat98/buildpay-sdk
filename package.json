@@ -1,6 +1,6 @@
 {
   "name": "buildpay-sdk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Official Node.js SDK for the BuildPay API - Manage SaaS customers, wallets, and blockchain transactions",
   "main": "index.js",
   "types": "index.d.ts",
@@ -21,12 +21,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/amrat98/buildpay-nodejs.git"
+    "url": "https://github.com/amrat98/buildpay-sdk.git"
   },
   "bugs": {
-    "url": "https://github.com/amrat98/buildpay-nodejs/issues"
+    "url": "https://github.com/amrat98/buildpay-sdk/issues"
   },
-  "homepage": "https://github.com/amrat98/buildpay-nodejs#readme",
+  "homepage": "https://github.com/amrat98/buildpay-sdk#readme",
   "engines": {
     "node": ">=12.0.0"
   },
